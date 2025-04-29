@@ -1,0 +1,32 @@
+{
+  "name": "desapego",
+  "version": "0.1.0",
+  "description": "Lojinha que fiz para desapegar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/rlneto/desapego"
+  },
+  "type": "module",
+  "keywords": [
+    "react",
+    "node",
+    "mern",
+    "mongodb"
+  ],
+  "author": "Rudolfo Lange Neto",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "nodemon": "^3.1.10"
+  }
+}
