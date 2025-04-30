@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto pessoal no qual partiu-se do pretexto de desapegar de alguns bens pessoais e publica-los em uma plataforma própria, desenvolvida aqui em uma aplicação full-stack. Analisado o escopo da solução, optei por JavaScript em vez de TypeScript.
+Projeto para exercitar o desenvolvimento de uma aplicação full-stack. Dado o escopo, está bem no básico com a pilha MERN e JavaScript. Esse repositório é o backend da aplicação.
 
 ## Tecnologias
 
